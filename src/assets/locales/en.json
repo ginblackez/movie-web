@@ -294,6 +294,7 @@
         "enableSubtitles": "Enable Subtitles",
         "experienceSection": "Viewing experience",
         "playbackItem": "Playback settings",
+        "audioItem": "Audio",
         "qualityItem": "Quality",
         "sourceItem": "Video sources",
         "subtitleItem": "Subtitle settings",
@@ -316,7 +317,7 @@
         "unknownOption": "Unknown"
       },
       "subtitles": {
-        "customChoice": "Select subtitle from file",
+        "customChoice": "Drop or upload file",
         "customizeLabel": "Customize",
         "offChoice": "Off",
         "settings": {
@@ -325,7 +326,8 @@
           "fixCapitals": "Fix capitalization"
         },
         "title": "Subtitles",
-        "unknownLanguage": "Unknown"
+        "unknownLanguage": "Unknown",
+        "dropSubtitleFile": "Drop subtitle file here"
       }
     },
     "metadata": {
